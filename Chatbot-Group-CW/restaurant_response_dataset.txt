@@ -1,0 +1,100 @@
+Yes sure, With what name should I do the reservation ?
+Yes sure, Please for how many people should I book the table ?
+Sorry, We don't have any free table at 8:00 PM, What about 9:00 PM ?
+Sorry, 8:00 PM is full, Do you have any other time preference ?
+Sorry, we are closed today due to public holiday.
+Sure, For how many people ?
+Ok, So a table for two. Do you have any preference for table ?
+Sure, Your table has been booked with reference number #487234.
+That’s great, With what name should I do the reservation ?
+With what name should I do the reservation ?
+Sorry, 10 PM is also full What about 9 PM or 7 PM ?
+Please how can I help you ?
+We are closed today due to public holiday.
+It depends on the availablity of tables.
+No, online reservation is for the customer ease.
+No, Sorry we take reservation for the one day in advance only.
+No, Order will be taken at the time of your reservation only.
+Sure. Please can you provide me the reference number for your reservation.
+Thank you, Your reservation has been canceled for tonight.
+Your reservation has been updated from today to tomorrow.
+Sorry, We only take reservations advance in one day, but I can cancel your reservation now and you can come back to book again.
+I have updated your requirement.
+your reservation is confirm, Happy dining.
+Please how can I help you ?
+We are a family restaurant and won't be able to take party reservations.
+Waiting depends upon the rush. Usually its around 10-20 mins.
+I will be happy to take reservation for you.
+no, at the moment we accept reservations online or face-to-face.
+We are 7 days open.
+Just few seconds.
+We do have reservations as per availablity of table.
+3:00 PM today meets with your requirement.
+We do have dedicated zone for co-operate meetings. At what time and for how many people you are looking for reservation ?
+Sure. Your first reservation has been cancelled. And a new reservation at Indiana Jones Hotel at 7:00 PM is done !
+Your reservation has been confirmed. Ref #487234.
+It’s a 24hrs service for customers.
+Do you have any preferences in food ?
+We have a planty of options, From Indian Menu : Chole Bhatura is the most recommended. If you want to have chinease : veg manchurian with red rice is a good option.
+Option to eat : Our Chicken Biryani is best in the area or you can try our current most selling mutton curry with rice.
+Yes, we do have a planty of option in vegetarian food, try chole bhatora
+Yes, Items are limited but surely our vegan broccoli mac is the must try !
+Yes, we do have a different range of scotch which can be ordered from menu.
+Sorry, we do have options of scotch, beer and vodka. At moment, we don't serve cocktails.
+We do have gulab jamun served with vanilla ice-cream or hot choclate icecream.
+We do have a variety of options. You can try our breakfast platter.
+Fried chciken as starter and chicken masala with bread for main course is a good option.
+As per your past orders, chicken biryani seems a perfect meal for your dinner.
+Chole Bhatura is a good dish to try.
+Chicken manchurian with rice is the most recommeneded.
+Sorry, at moment we only serve Indian and chinease food.
+You can try Johnny Walker which comes under reasonable price aswell.
+We just started serving Kung pao chicken and we have a very positve response of the same. You can try this.
+Yes, we do have a planty of varities for lactose intolerance.
+You can tell your food preferences during dining and we will take care of the same at that time only.
+We do have a variety of pizzas: Papa John's Pizza is our speciality pizza.
+Sorry at moment We don't serve Pork Dishes.
+Vanilla and cocolate icecream is the most recommended.
+Yes, we do have coco-cola, pepsi and many others.
+I will suggest you to try chinease chicken manchurian today.
+You can have Jack Daniels for $20 750ml.
+You can try our "Great Indian Platter" with planty of variety dishes.
+We have many good dishes to try from Chicken Biryani to Manchurian.
+If you are looking for something light go for our platter otherwise we have a variety of curries for dinner.
+Yes. We have world class Taco soup.
+Yes we have stovetop burger and papa john's pizza in our menu.
+Pizza or platters are the most served food during lunch.
+Yes, all biryanis will have garlic in its recipe.
+Yes, garlic is part of the ingredients list of all biryanis.
+All biryanis come with garlic in them unless it specifically says garlic-free.
+The oven needs to be preheated for 5 minutes at least to reach the desired temperature.
+It depends on the required temperature, but 5 minutes of preheating will be sufficient in most cases.
+A minimum of 5 minutes of preheating is recommended for the oven to reach its optimum temperature.
+I can help you narrow down your choices. Do you have any type of cuisine in mind at the moment?
+It depends on your taste, but I would suggest Basa to be better for frying.
+Both are delicious when fried, but my suggestion would be Cod as it is very popular for frying.
+It can be subjective, Can I ask if you like very tender fried fish, if yes you can go for it.
+All of our dishes include either milk or eggs.
+Unfortunately all of our dishes have ingredients of different shellfish and I would advise caution if you still want to try any of our dishes.
+Our customers post reviews on our reviews section.
+There is a reviews section in our website where you can share your thoughts on the food you had.
+Our website has its own reviews section where you can post your thoughts on our food. 
+According to our customer reviews, our Prawns Fried Rice had the most positive reviews.
+Of course! You can read all about it in the customer reviews section on our website.
+According to diners’ reviews, it is a very delicious dish.
+There are a lot of negative reviews on chicken fried, so I would advise caution in choosing the right dish if you want to have chicken.
+Yes, we serve delicious Singapore fried rice with either chicken or lamb.
+We are so glad that you loved the food, You can post a review by going to the review section.
+According to our top positive reviews, Hawaiian pizza and Ratatouille are our customers’ favourites.
+Our customer responses show that our Chicken Tikka Masala is the most popular dish.
+The most popular dish in our menu is Grilled Chicken Strips.
+Our customers' reviews indicate a good positive response about our Pepperoni Pizza. 
+We are sorry to hear that you did not enjoy the food.
+Certainly! Customers post public reviews on our website. Here is the link that will take you there.
+Sure! I will put a link down below which will take you to our website’s reviews section.
+No problem! You may follow the link below to get redirected to our customer reviews section.
+We serve to excel! But you can read up about what our customers think in review section.
+Absolutely! Follow this link to our customer reviews section to find out what our customers think about us : "https://uk.trustpilot.com/review/www.zomato.com".
+We assure you a wonderful experience. You can also read about our customers’ thoughts on us by checking the review section.
+Sure. Your booking at Indiana Jones Hotel has been updated at 7:00 PM.
+
